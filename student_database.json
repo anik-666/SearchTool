@@ -1,0 +1,802 @@
+[
+    {
+        "student_id": 748156,
+        "name": "Mariah Kim",
+        "age": 25,
+        "major": "Psychologist, counselling",
+        "gpa": 2.15,
+        "email": "achaney@yahoo.com"
+    },
+    {
+        "student_id": 572051,
+        "name": "Jennifer Colon",
+        "age": 20,
+        "major": "Civil Service fast streamer",
+        "gpa": 1.17,
+        "email": "cookrussell@hotmail.com"
+    },
+    {
+        "student_id": 531764,
+        "name": "Michael Fritz",
+        "age": 21,
+        "major": "Teacher, early years/pre",
+        "gpa": 1.81,
+        "email": "bestsusan@yahoo.com"
+    },
+    {
+        "student_id": 580211,
+        "name": "Dr. Lisa Clark",
+        "age": 18,
+        "major": "Outdoor activities/education manager",
+        "gpa": 1.25,
+        "email": "lisa70@chase.biz"
+    },
+    {
+        "student_id": 110766,
+        "name": "Christopher Williams",
+        "age": 19,
+        "major": "Surveyor, rural practice",
+        "gpa": 1.0,
+        "email": "matthewlindsey@gmail.com"
+    },
+    {
+        "student_id": 515179,
+        "name": "Johnathan Smith",
+        "age": 21,
+        "major": "Nurse, mental health",
+        "gpa": 2.38,
+        "email": "swilliams@greer-patterson.com"
+    },
+    {
+        "student_id": 550661,
+        "name": "Brian Bailey",
+        "age": 22,
+        "major": "Insurance underwriter",
+        "gpa": 0.47,
+        "email": "nataliemueller@carpenter.biz"
+    },
+    {
+        "student_id": 871321,
+        "name": "Tracy Collins",
+        "age": 20,
+        "major": "Copywriter, advertising",
+        "gpa": 1.63,
+        "email": "srichards@bolton.com"
+    },
+    {
+        "student_id": 267731,
+        "name": "Sarah Diaz",
+        "age": 23,
+        "major": "Medical technical officer",
+        "gpa": 3.91,
+        "email": "robert99@yahoo.com"
+    },
+    {
+        "student_id": 790760,
+        "name": "Robin Jones",
+        "age": 18,
+        "major": "Games developer",
+        "gpa": 2.8,
+        "email": "alec71@smith.biz"
+    },
+    {
+        "student_id": 232096,
+        "name": "Brian Mack",
+        "age": 23,
+        "major": "Financial planner",
+        "gpa": 3.2,
+        "email": "thomasdaniel@weber.com"
+    },
+    {
+        "student_id": 780790,
+        "name": "Jaime Mitchell",
+        "age": 18,
+        "major": "Administrator, education",
+        "gpa": 0.48,
+        "email": "coffeyvanessa@hotmail.com"
+    },
+    {
+        "student_id": 781191,
+        "name": "Mary Thomas",
+        "age": 19,
+        "major": "Chartered management accountant",
+        "gpa": 0.85,
+        "email": "jill73@smith.biz"
+    },
+    {
+        "student_id": 223290,
+        "name": "John Ross",
+        "age": 19,
+        "major": "Education administrator",
+        "gpa": 2.02,
+        "email": "eric37@yahoo.com"
+    },
+    {
+        "student_id": 509926,
+        "name": "James Elliott Jr.",
+        "age": 21,
+        "major": "Administrator, Civil Service",
+        "gpa": 0.56,
+        "email": "jake26@henderson.biz"
+    },
+    {
+        "student_id": 350850,
+        "name": "Richard Lamb Jr.",
+        "age": 20,
+        "major": "Diagnostic radiographer",
+        "gpa": 2.45,
+        "email": "elliottjohn@gmail.com"
+    },
+    {
+        "student_id": 828678,
+        "name": "Elizabeth Hardy",
+        "age": 25,
+        "major": "Designer, jewellery",
+        "gpa": 1.27,
+        "email": "lindagreen@perez.com"
+    },
+    {
+        "student_id": 398718,
+        "name": "Sean Allen",
+        "age": 18,
+        "major": "Careers adviser",
+        "gpa": 0.91,
+        "email": "hodgesjessica@hotmail.com"
+    },
+    {
+        "student_id": 502373,
+        "name": "Vanessa Anthony",
+        "age": 19,
+        "major": "Data processing manager",
+        "gpa": 3.02,
+        "email": "melissabush@myers.com"
+    },
+    {
+        "student_id": 612900,
+        "name": "Jennifer Avila",
+        "age": 20,
+        "major": "Quantity surveyor",
+        "gpa": 3.52,
+        "email": "normanyolanda@riley-murphy.com"
+    },
+    {
+        "student_id": 991780,
+        "name": "Michael Zhang",
+        "age": 19,
+        "major": "Engineer, drilling",
+        "gpa": 2.52,
+        "email": "michellecherry@hotmail.com"
+    },
+    {
+        "student_id": 636071,
+        "name": "Jeremy Calhoun",
+        "age": 22,
+        "major": "Charity officer",
+        "gpa": 2.6,
+        "email": "jenniferjohnson@smith-wolfe.com"
+    },
+    {
+        "student_id": 484496,
+        "name": "Jessica Johnson",
+        "age": 23,
+        "major": "Designer, ceramics/pottery",
+        "gpa": 0.55,
+        "email": "michelle56@hotmail.com"
+    },
+    {
+        "student_id": 922004,
+        "name": "Amy Stevenson",
+        "age": 18,
+        "major": "Production assistant, television",
+        "gpa": 2.77,
+        "email": "dylan78@bean-white.org"
+    },
+    {
+        "student_id": 702664,
+        "name": "Rebecca Salas",
+        "age": 22,
+        "major": "Personal assistant",
+        "gpa": 1.78,
+        "email": "mullinsmelissa@hotmail.com"
+    },
+    {
+        "student_id": 714713,
+        "name": "Christina Stewart",
+        "age": 20,
+        "major": "Pilot, airline",
+        "gpa": 0.92,
+        "email": "ijackson@gmail.com"
+    },
+    {
+        "student_id": 447478,
+        "name": "Darrell Simmons",
+        "age": 19,
+        "major": "Pharmacologist",
+        "gpa": 1.82,
+        "email": "irodriguez@gmail.com"
+    },
+    {
+        "student_id": 312581,
+        "name": "Gregory Murray",
+        "age": 20,
+        "major": "Designer, furniture",
+        "gpa": 2.17,
+        "email": "fallen@gmail.com"
+    },
+    {
+        "student_id": 499153,
+        "name": "Connie Padilla",
+        "age": 19,
+        "major": "Airline pilot",
+        "gpa": 2.09,
+        "email": "linda42@cunningham-lee.net"
+    },
+    {
+        "student_id": 760329,
+        "name": "Allison Rhodes",
+        "age": 20,
+        "major": "Patent examiner",
+        "gpa": 0.17,
+        "email": "curtis70@moore.com"
+    },
+    {
+        "student_id": 263067,
+        "name": "Mary Diaz",
+        "age": 20,
+        "major": "Purchasing manager",
+        "gpa": 2.93,
+        "email": "longbrian@hotmail.com"
+    },
+    {
+        "student_id": 868744,
+        "name": "David Cardenas",
+        "age": 18,
+        "major": "Civil Service fast streamer",
+        "gpa": 3.32,
+        "email": "bryanvazquez@joseph.net"
+    },
+    {
+        "student_id": 186727,
+        "name": "Chelsea Lawson",
+        "age": 23,
+        "major": "Theatre director",
+        "gpa": 0.21,
+        "email": "jfuller@hotmail.com"
+    },
+    {
+        "student_id": 217839,
+        "name": "Deborah Moore",
+        "age": 23,
+        "major": "Event organiser",
+        "gpa": 0.35,
+        "email": "jeffreymorgan@yahoo.com"
+    },
+    {
+        "student_id": 970575,
+        "name": "Curtis Fox",
+        "age": 23,
+        "major": "Archaeologist",
+        "gpa": 1.25,
+        "email": "curtis47@wade.com"
+    },
+    {
+        "student_id": 149767,
+        "name": "Shane Bell",
+        "age": 21,
+        "major": "Product manager",
+        "gpa": 2.43,
+        "email": "roblesandrea@gmail.com"
+    },
+    {
+        "student_id": 202889,
+        "name": "Michelle Knox",
+        "age": 18,
+        "major": "Politician's assistant",
+        "gpa": 3.13,
+        "email": "qcameron@miller.com"
+    },
+    {
+        "student_id": 863005,
+        "name": "Richard Martinez",
+        "age": 25,
+        "major": "Volunteer coordinator",
+        "gpa": 3.84,
+        "email": "norrispaul@garcia-bowman.com"
+    },
+    {
+        "student_id": 178935,
+        "name": "Robert Green",
+        "age": 21,
+        "major": "Regulatory affairs officer",
+        "gpa": 1.27,
+        "email": "brianlowe@gmail.com"
+    },
+    {
+        "student_id": 245668,
+        "name": "Brittany Collins",
+        "age": 19,
+        "major": "Programmer, applications",
+        "gpa": 1.6,
+        "email": "kevinclark@gmail.com"
+    },
+    {
+        "student_id": 247586,
+        "name": "Michael Lewis",
+        "age": 24,
+        "major": "Designer, exhibition/display",
+        "gpa": 3.75,
+        "email": "bartonalison@hickman.org"
+    },
+    {
+        "student_id": 831474,
+        "name": "David Ortega",
+        "age": 25,
+        "major": "Holiday representative",
+        "gpa": 1.34,
+        "email": "rsmith@johnson.com"
+    },
+    {
+        "student_id": 175979,
+        "name": "Nicole Prince",
+        "age": 19,
+        "major": "Hospital pharmacist",
+        "gpa": 0.96,
+        "email": "cwilliams@gordon-long.com"
+    },
+    {
+        "student_id": 904852,
+        "name": "Colleen Williams",
+        "age": 18,
+        "major": "Museum/gallery conservator",
+        "gpa": 2.38,
+        "email": "veronicaalexander@nelson-black.com"
+    },
+    {
+        "student_id": 205837,
+        "name": "Danny Fletcher",
+        "age": 22,
+        "major": "Fashion designer",
+        "gpa": 2.22,
+        "email": "matthewssierra@gmail.com"
+    },
+    {
+        "student_id": 633589,
+        "name": "Sarah Stanton",
+        "age": 19,
+        "major": "Animal nutritionist",
+        "gpa": 3.83,
+        "email": "randall42@hotmail.com"
+    },
+    {
+        "student_id": 113683,
+        "name": "Dr. Sarah Schmidt",
+        "age": 18,
+        "major": "Surveyor, quantity",
+        "gpa": 0.1,
+        "email": "robertsandrew@hotmail.com"
+    },
+    {
+        "student_id": 587477,
+        "name": "Yvonne Sherman",
+        "age": 19,
+        "major": "Fashion designer",
+        "gpa": 1.19,
+        "email": "xbartlett@lawrence.biz"
+    },
+    {
+        "student_id": 184431,
+        "name": "Melissa Grant",
+        "age": 24,
+        "major": "Hydrologist",
+        "gpa": 2.08,
+        "email": "kerri66@castillo-roberts.net"
+    },
+    {
+        "student_id": 699315,
+        "name": "John Adams",
+        "age": 18,
+        "major": "Nature conservation officer",
+        "gpa": 3.62,
+        "email": "christopher18@hotmail.com"
+    },
+    {
+        "student_id": 377892,
+        "name": "Jamie Sawyer",
+        "age": 21,
+        "major": "Commercial/residential surveyor",
+        "gpa": 1.29,
+        "email": "andrew16@anderson-hill.com"
+    },
+    {
+        "student_id": 739766,
+        "name": "Amanda Walsh",
+        "age": 20,
+        "major": "Adult guidance worker",
+        "gpa": 2.37,
+        "email": "natalie07@cook.com"
+    },
+    {
+        "student_id": 396521,
+        "name": "Patrick Scott",
+        "age": 20,
+        "major": "Podiatrist",
+        "gpa": 1.18,
+        "email": "laura13@evans-jimenez.org"
+    },
+    {
+        "student_id": 795566,
+        "name": "Natalie Coleman",
+        "age": 24,
+        "major": "Scientist, forensic",
+        "gpa": 3.03,
+        "email": "pfloyd@mitchell.org"
+    },
+    {
+        "student_id": 695894,
+        "name": "Theresa Garza",
+        "age": 22,
+        "major": "Multimedia specialist",
+        "gpa": 2.02,
+        "email": "susan62@king.org"
+    },
+    {
+        "student_id": 169121,
+        "name": "Nicholas Gordon",
+        "age": 25,
+        "major": "Building control surveyor",
+        "gpa": 2.82,
+        "email": "robert38@moore.com"
+    },
+    {
+        "student_id": 957658,
+        "name": "Jeffery Montgomery",
+        "age": 25,
+        "major": "Outdoor activities/education manager",
+        "gpa": 2.32,
+        "email": "vlindsey@foster-clark.com"
+    },
+    {
+        "student_id": 993000,
+        "name": "Sheila Ramos",
+        "age": 25,
+        "major": "Television floor manager",
+        "gpa": 0.94,
+        "email": "colemanstephanie@ochoa.com"
+    },
+    {
+        "student_id": 644476,
+        "name": "Jill Williams",
+        "age": 18,
+        "major": "Newspaper journalist",
+        "gpa": 1.76,
+        "email": "benjamin36@yahoo.com"
+    },
+    {
+        "student_id": 994808,
+        "name": "Heidi Parker",
+        "age": 24,
+        "major": "Scientist, physiological",
+        "gpa": 0.96,
+        "email": "tiffany99@miranda-adams.net"
+    },
+    {
+        "student_id": 229743,
+        "name": "Peter Lutz",
+        "age": 23,
+        "major": "Insurance underwriter",
+        "gpa": 2.38,
+        "email": "gnelson@fleming.com"
+    },
+    {
+        "student_id": 853592,
+        "name": "Miss Amy Nelson",
+        "age": 23,
+        "major": "IT sales professional",
+        "gpa": 0.95,
+        "email": "jeffersonjesse@yahoo.com"
+    },
+    {
+        "student_id": 606433,
+        "name": "Dylan Griffith",
+        "age": 21,
+        "major": "Surveyor, planning and development",
+        "gpa": 2.61,
+        "email": "jason70@hotmail.com"
+    },
+    {
+        "student_id": 929492,
+        "name": "Caitlin Salazar",
+        "age": 19,
+        "major": "Toxicologist",
+        "gpa": 0.91,
+        "email": "santiagodonna@gmail.com"
+    },
+    {
+        "student_id": 818841,
+        "name": "Julia Avila",
+        "age": 22,
+        "major": "Financial planner",
+        "gpa": 3.25,
+        "email": "lori83@wheeler.com"
+    },
+    {
+        "student_id": 343528,
+        "name": "Claire Baird",
+        "age": 25,
+        "major": "Soil scientist",
+        "gpa": 1.11,
+        "email": "david89@bright.biz"
+    },
+    {
+        "student_id": 228347,
+        "name": "Troy Mckay",
+        "age": 19,
+        "major": "Patent examiner",
+        "gpa": 1.38,
+        "email": "martinstephanie@christensen.org"
+    },
+    {
+        "student_id": 295251,
+        "name": "Julie Boyd",
+        "age": 20,
+        "major": "Hospital doctor",
+        "gpa": 3.21,
+        "email": "kayla83@gmail.com"
+    },
+    {
+        "student_id": 112947,
+        "name": "Erin Garcia",
+        "age": 23,
+        "major": "Risk manager",
+        "gpa": 3.01,
+        "email": "lindsay93@stewart.com"
+    },
+    {
+        "student_id": 916184,
+        "name": "Gregory Barrera",
+        "age": 24,
+        "major": "Scientist, physiological",
+        "gpa": 0.31,
+        "email": "sandovalrobert@hotmail.com"
+    },
+    {
+        "student_id": 790600,
+        "name": "Melissa Norris",
+        "age": 20,
+        "major": "Scientist, biomedical",
+        "gpa": 2.67,
+        "email": "morrisandrew@yahoo.com"
+    },
+    {
+        "student_id": 128198,
+        "name": "Leslie Vance",
+        "age": 24,
+        "major": "Recruitment consultant",
+        "gpa": 2.49,
+        "email": "jtapia@gutierrez-rice.info"
+    },
+    {
+        "student_id": 517658,
+        "name": "Margaret Zamora",
+        "age": 24,
+        "major": "Risk manager",
+        "gpa": 3.71,
+        "email": "adam48@archer.com"
+    },
+    {
+        "student_id": 272930,
+        "name": "Teresa Wood",
+        "age": 18,
+        "major": "Teacher, secondary school",
+        "gpa": 1.9,
+        "email": "hilljason@martinez-freeman.com"
+    },
+    {
+        "student_id": 304280,
+        "name": "Jennifer Davis",
+        "age": 18,
+        "major": "Clinical cytogeneticist",
+        "gpa": 0.4,
+        "email": "uholt@watson-mays.org"
+    },
+    {
+        "student_id": 372953,
+        "name": "Alejandro Williams",
+        "age": 25,
+        "major": "Quarry manager",
+        "gpa": 2.79,
+        "email": "rebeccahall@rodriguez-lang.com"
+    },
+    {
+        "student_id": 571417,
+        "name": "Hannah Anderson",
+        "age": 21,
+        "major": "Land/geomatics surveyor",
+        "gpa": 2.76,
+        "email": "david36@medina-bridges.net"
+    },
+    {
+        "student_id": 766638,
+        "name": "Jennifer Schwartz",
+        "age": 18,
+        "major": "Nurse, adult",
+        "gpa": 2.44,
+        "email": "mharris@mckinney.com"
+    },
+    {
+        "student_id": 733728,
+        "name": "Joseph Weaver",
+        "age": 23,
+        "major": "Transport planner",
+        "gpa": 2.62,
+        "email": "vincent27@yahoo.com"
+    },
+    {
+        "student_id": 306683,
+        "name": "Erin Norman",
+        "age": 25,
+        "major": "Teacher, secondary school",
+        "gpa": 3.02,
+        "email": "ryan75@yahoo.com"
+    },
+    {
+        "student_id": 817455,
+        "name": "Valerie Gibson MD",
+        "age": 25,
+        "major": "Scientist, research (maths)",
+        "gpa": 2.58,
+        "email": "tayloramy@bennett-mcclure.com"
+    },
+    {
+        "student_id": 487820,
+        "name": "Brittany Cooley",
+        "age": 24,
+        "major": "Artist",
+        "gpa": 1.68,
+        "email": "timothy76@reed.com"
+    },
+    {
+        "student_id": 313927,
+        "name": "Alyssa Smith",
+        "age": 23,
+        "major": "Gaffer",
+        "gpa": 2.8,
+        "email": "nicholas81@brown.com"
+    },
+    {
+        "student_id": 303458,
+        "name": "Judith Taylor",
+        "age": 22,
+        "major": "Surveyor, quantity",
+        "gpa": 3.94,
+        "email": "daniellele@stevens-moon.com"
+    },
+    {
+        "student_id": 758078,
+        "name": "Zachary Mack",
+        "age": 25,
+        "major": "Engineer, maintenance",
+        "gpa": 1.6,
+        "email": "aaronpowell@crawford-mayo.com"
+    },
+    {
+        "student_id": 996320,
+        "name": "Mr. Paul Johnson",
+        "age": 18,
+        "major": "Actor",
+        "gpa": 0.49,
+        "email": "moorejonathan@hotmail.com"
+    },
+    {
+        "student_id": 949717,
+        "name": "Tyler Price",
+        "age": 24,
+        "major": "Health visitor",
+        "gpa": 2.31,
+        "email": "anna07@morales-brown.biz"
+    },
+    {
+        "student_id": 478895,
+        "name": "Robert Mccarthy",
+        "age": 24,
+        "major": "Management consultant",
+        "gpa": 1.35,
+        "email": "tracy52@gmail.com"
+    },
+    {
+        "student_id": 208768,
+        "name": "Melissa Houston",
+        "age": 23,
+        "major": "Landscape architect",
+        "gpa": 1.5,
+        "email": "chelseawatson@gardner-mitchell.info"
+    },
+    {
+        "student_id": 392146,
+        "name": "Dr. Joshua Smith",
+        "age": 24,
+        "major": "Database administrator",
+        "gpa": 0.98,
+        "email": "wisetimothy@edwards.com"
+    },
+    {
+        "student_id": 917361,
+        "name": "Andrew Tapia",
+        "age": 18,
+        "major": "Water engineer",
+        "gpa": 2.45,
+        "email": "rebecca48@carter.com"
+    },
+    {
+        "student_id": 640620,
+        "name": "Zachary Le",
+        "age": 24,
+        "major": "Hydrogeologist",
+        "gpa": 1.95,
+        "email": "bradleyjon@yahoo.com"
+    },
+    {
+        "student_id": 874088,
+        "name": "Jane Boyd",
+        "age": 23,
+        "major": "Magazine journalist",
+        "gpa": 1.49,
+        "email": "yatesmackenzie@shaw.com"
+    },
+    {
+        "student_id": 225614,
+        "name": "Dillon Logan",
+        "age": 21,
+        "major": "Outdoor activities/education manager",
+        "gpa": 3.46,
+        "email": "danielle32@hartman.com"
+    },
+    {
+        "student_id": 509736,
+        "name": "Glenn Cummings",
+        "age": 19,
+        "major": "Occupational psychologist",
+        "gpa": 0.8,
+        "email": "phobbs@yahoo.com"
+    },
+    {
+        "student_id": 636839,
+        "name": "Todd Anderson",
+        "age": 20,
+        "major": "Health service manager",
+        "gpa": 3.48,
+        "email": "jonestracy@lewis.org"
+    },
+    {
+        "student_id": 830567,
+        "name": "Travis Vasquez",
+        "age": 25,
+        "major": "Clinical scientist, histocompatibility and immunogenetics",
+        "gpa": 0.08,
+        "email": "heather50@friedman.com"
+    },
+    {
+        "student_id": 778019,
+        "name": "Brandon Rodriguez",
+        "age": 24,
+        "major": "Chartered loss adjuster",
+        "gpa": 0.51,
+        "email": "amanda89@gmail.com"
+    },
+    {
+        "student_id": 486900,
+        "name": "Emily Blair",
+        "age": 24,
+        "major": "IT consultant",
+        "gpa": 2.06,
+        "email": "leonmark@wallace.net"
+    },
+    {
+        "student_id": 250746,
+        "name": "Maria Sanchez",
+        "age": 19,
+        "major": "Biomedical scientist",
+        "gpa": 1.91,
+        "email": "vwhite@reese.com"
+    }
+]
